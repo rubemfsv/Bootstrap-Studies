@@ -67,6 +67,12 @@ body{
       }
   }
 }
+.modal-header  {
+  background:$background-dark;
+}
+.modal-body {
+  background:$background-pale
+}
 
 #carouselButton {
   right:0px;
